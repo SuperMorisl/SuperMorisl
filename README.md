@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Maurice
+# 👋 Hello, moi c'est Maurice
 
 Bienvenue sur mon profil GitHub !  
 Je suis un étudiant en informatique à l’UCLouvain, passionné par le code, la musique et la découverte de nouveaux horizons — que ce soit dans la tech ou dans la vraie vie 🌍
